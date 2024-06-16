@@ -4,10 +4,7 @@ The source code for the 2024-25 International Fair Miniprogram for Shanghai Amer
 ## Changes Made from IF23-4
 This section will be dedicated to the goals and improvements made since the original student developed International Fair Miniprogram, focusing on inefficiencies, UI/UX, Cybersecurity, readability, and functionality.
 
-### Additions, Subtractions
-Main reworks:
-
-> ## Additions
+> ### Additions
 >   + Interactive Map
 >   + Beginning Treasure Hunt
 >   + Administrative Questionairre
@@ -25,10 +22,10 @@ Main reworks:
 >   + Cloud/better storage for large files (Advertisements, media, introductory materials)
 >   + Booth search/sort system
 
-> ## Subtractions
+> ### Subtractions
 
 
-### Inefficiencies
+## Inefficiencies
 Although the program worked well and was functional to a majority of people, certain people - such as those with more 'legacy' technologies - found far more difficulties running the program. These difficulties landed especially in loading media and in cloud functionality,
 
 ### UI, UX
