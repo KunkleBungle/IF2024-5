@@ -50,7 +50,9 @@ Although the program worked well and was functional to a majority of people, cer
 
 ## Additions (deep)
 
-1. ### Interactive Map
+1. ### Map improvements
+   > Allow zooming in and out for map.
+   > Adding interactability to map* 
 
 # Functionalities
 
